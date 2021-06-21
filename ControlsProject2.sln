@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsProject2", "ControlsProject2\ControlsProject2.csproj", "{18640125-515C-4C63-9265-D56309771484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsControlLab", "WinFormsControlLab\WinFormsControlLab.csproj", "{C8A01399-F068-4D20-A8C0-11A2DEBA2856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18640125-515C-4C63-9265-D56309771484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18640125-515C-4C63-9265-D56309771484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18640125-515C-4C63-9265-D56309771484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18640125-515C-4C63-9265-D56309771484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A01399-F068-4D20-A8C0-11A2DEBA2856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A01399-F068-4D20-A8C0-11A2DEBA2856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A01399-F068-4D20-A8C0-11A2DEBA2856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A01399-F068-4D20-A8C0-11A2DEBA2856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741EECC2-326D-4648-9AB1-87C6EFB45C93}
+	EndGlobalSection
+EndGlobal
